@@ -1,2 +1,3 @@
 # embedded
 FreeRTOS桌宠
+这是一个移植轻量级的FreeRTOS桌面宠物机器人Project
